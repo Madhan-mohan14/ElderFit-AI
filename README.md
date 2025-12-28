@@ -32,6 +32,9 @@ Elderly users (45–90) struggle with:
 
 ## 🧠 Agent Architecture (ML + Symbolic Core)
 
+<img width="1126" height="826" alt="graphviz (8)" src="https://github.com/user-attachments/assets/47c74d2c-82d3-4ff7-ba97-2dcc18508c6f" />
+
+
 | Agent | Role |
 |---|---|
 | **Observe Agent** | Collects & validates check-in data (sleep, mood, appetite, ingredients, adherence, quiz) |
