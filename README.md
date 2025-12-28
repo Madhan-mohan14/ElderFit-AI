@@ -136,7 +136,7 @@ API Docs: http://localhost:8000/docs
 ├── logs/             # Decision Trace Logs (Audit-Friendly)
 └── requirements.txt  # Python dependencies
 ```
-⚠️ Important Notes
+## ⚠️ Important Notes
 This is a wellness system, not a medical system
 
 No diagnosis or treatment is provided
@@ -151,7 +151,7 @@ Decision trace logs ensure audit-friendly evaluation
 
 Avoids quota bias using a fairness agent
 
-🔮 Future Scope
+## 🔮 Future Scope
 Wearable data input integration (HR, steps, sleep)
 
 Calendar scheduling + reminders (already supported optionally)
